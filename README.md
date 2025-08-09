@@ -1,4 +1,4 @@
-<img src="https://gitlab.com/MateoRodriguez0/MateoRodriguez0/-/raw/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?ref_type=heads">
+<img src="https://gitlab.com/MateoRodriguez0/MateoRodriguez0/-/raw/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 👋 Hello, I'm Mateo Rodríguez 
 
